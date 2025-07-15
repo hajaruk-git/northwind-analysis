@@ -1,0 +1,94 @@
+CustomerID,CompanyName,ContactName,ContactTitle,City,Region,Country
+ALFKI,Alfreds Futterkiste,Maria Anders,Sales Representative,Berlin,Western Europe,Germany
+ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,Owner,México D.F.,Central America,Mexico
+ANTON,Antonio Moreno Taquería,Antonio Moreno,Owner,México D.F.,Central America,Mexico
+AROUT,Around the Horn,Thomas Hardy,Sales Representative,London,British Isles,UK
+BERGS,Berglunds snabbköp,Christina Berglund,Order Administrator,Luleå,Northern Europe,Sweden
+BLAUS,Blauer See Delikatessen,Hanna Moos,Sales Representative,Mannheim,Western Europe,Germany
+BLONP,Blondesddsl père et fils,Frédérique Citeaux,Marketing Manager,Strasbourg,Western Europe,France
+BOLID,Bólido Comidas preparadas,Martín Sommer,Owner,Madrid,Southern Europe,Spain
+BONAP,Bon app',Laurence Lebihan,Owner,Marseille,Western Europe,France
+BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Accounting Manager,Tsawassen,North America,Canada
+BSBEV,B's Beverages,Victoria Ashworth,Sales Representative,London,British Isles,UK
+CACTU,Cactus Comidas para llevar,Patricio Simpson,Sales Agent,Buenos Aires,South America,Argentina
+CENTC,Centro comercial Moctezuma,Francisco Chang,Marketing Manager,México D.F.,Central America,Mexico
+CHOPS,Chop-suey Chinese,Yang Wang,Owner,Bern,Western Europe,Switzerland
+COMMI,Comércio Mineiro,Pedro Afonso,Sales Associate,Sao Paulo,South America,Brazil
+CONSH,Consolidated Holdings,Elizabeth Brown,Sales Representative,London,British Isles,UK
+DRACD,Drachenblut Delikatessen,Sven Ottlieb,Order Administrator,Aachen,Western Europe,Germany
+DUMON,Du monde entier,Janine Labrune,Owner,Nantes,Western Europe,France
+EASTC,Eastern Connection,Ann Devon,Sales Agent,London,British Isles,UK
+ERNSH,Ernst Handel,Roland Mendel,Sales Manager,Graz,Western Europe,Austria
+FAMIA,Familia Arquibaldo,Aria Cruz,Marketing Assistant,Sao Paulo,South America,Brazil
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Diego Roel,Accounting Manager,Madrid,Southern Europe,Spain
+FOLIG,Folies gourmandes,Martine Rancé,Assistant Sales Agent,Lille,Western Europe,France
+FOLKO,Folk och fä HB,Maria Larsson,Owner,Bräcke,Northern Europe,Sweden
+FRANK,Frankenversand,Peter Franken,Marketing Manager,München,Western Europe,Germany
+FRANR,France restauration,Carine Schmitt,Marketing Manager,Nantes,Western Europe,France
+FRANS,Franchi S.p.A.,Paolo Accorti,Sales Representative,Torino,Southern Europe,Italy
+FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Sales Manager,Lisboa,Southern Europe,Portugal
+GALED,Galería del gastrónomo,Eduardo Saavedra,Marketing Manager,Barcelona,Southern Europe,Spain
+GODOS,Godos Cocina Típica,José Pedro Freyre,Sales Manager,Sevilla,Southern Europe,Spain
+GOURL,Gourmet Lanchonetes,André Fonseca,Sales Associate,Campinas,South America,Brazil
+GREAL,Great Lakes Food Market,Howard Snyder,Marketing Manager,Eugene,North America,USA
+GROSR,GROSELLA-Restaurante,Manuel Pereira,Owner,Caracas,South America,Venezuela
+HANAR,Hanari Carnes,Mario Pontes,Accounting Manager,Rio de Janeiro,South America,Brazil
+HILAA,HILARION-Abastos,Carlos Hernández,Sales Representative,San Cristóbal,South America,Venezuela
+HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Sales Representative,Elgin,North America,USA
+HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Sales Associate,Cork,British Isles,Ireland
+ISLAT,Island Trading,Helen Bennett,Marketing Manager,Cowes,British Isles,UK
+KOENE,Königlich Essen,Philip Cramer,Sales Associate,Brandenburg,Western Europe,Germany
+LACOR,La corne d'abondance,Daniel Tonini,Sales Representative,Versailles,Western Europe,France
+LAMAI,La maison d'Asie,Annette Roulet,Sales Manager,Toulouse,Western Europe,France
+LAUGB,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Marketing Assistant,Vancouver,North America,Canada
+LAZYK,Lazy K Kountry Store,John Steel,Marketing Manager,Walla Walla,North America,USA
+LEHMS,Lehmanns Marktstand,Renate Messner,Sales Representative,Frankfurt a.M.,Western Europe,Germany
+LETSS,Let's Stop N Shop,Jaime Yorres,Owner,San Francisco,North America,USA
+LILAS,LILA-Supermercado,Carlos González,Accounting Manager,Barquisimeto,South America,Venezuela
+LINOD,LINO-Delicateses,Felipe Izquierdo,Owner,I. de Margarita,South America,Venezuela
+LONEP,Lonesome Pine Restaurant,Fran Wilson,Sales Manager,Portland,North America,USA
+MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Marketing Manager,Bergamo,Southern Europe,Italy
+MAISD,Maison Dewey,Catherine Dewey,Sales Agent,Bruxelles,Western Europe,Belgium
+MEREP,Mère Paillarde,Jean Fresnière,Marketing Assistant,Montréal,North America,Canada
+MORGK,Morgenstern Gesundkost,Alexander Feuer,Marketing Assistant,Leipzig,Western Europe,Germany
+NORTS,North/South,Simon Crowther,Sales Associate,London,British Isles,UK
+OCEAN,Océano Atlántico Ltda.,Yvonne Moncada,Sales Agent,Buenos Aires,South America,Argentina
+OLDWO,Old World Delicatessen,Rene Phillips,Sales Representative,Anchorage,North America,USA
+OTTIK,Ottilies Käseladen,Henriette Pfalzheim,Owner,Köln,Western Europe,Germany
+PARIS,Paris spécialités,Marie Bertrand,Owner,Paris,Western Europe,France
+PERIC,Pericles Comidas clásicas,Guillermo Fernández,Sales Representative,México D.F.,Central America,Mexico
+PICCO,Piccolo und mehr,Georg Pipps,Sales Manager,Salzburg,Western Europe,Austria
+PRINI,Princesa Isabel Vinhos,Isabel de Castro,Sales Representative,Lisboa,Southern Europe,Portugal
+QUEDE,Que Delícia,Bernardo Batista,Accounting Manager,Rio de Janeiro,South America,Brazil
+QUEEN,Queen Cozinha,Lúcia Carvalho,Marketing Assistant,Sao Paulo,South America,Brazil
+QUICK,QUICK-Stop,Horst Kloss,Accounting Manager,Cunewalde,Western Europe,Germany
+RANCH,Rancho grande,Sergio Gutiérrez,Sales Representative,Buenos Aires,South America,Argentina
+RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Assistant Sales Representative,Albuquerque,North America,USA
+REGGC,Reggiani Caseifici,Maurizio Moroni,Sales Associate,Reggio Emilia,Southern Europe,Italy
+RICAR,Ricardo Adocicados,Janete Limeira,Assistant Sales Agent,Rio de Janeiro,South America,Brazil
+RICSU,Richter Supermarkt,Michael Holz,Sales Manager,Genève,Western Europe,Switzerland
+ROMEY,Romero y tomillo,Alejandra Camino,Accounting Manager,Madrid,Southern Europe,Spain
+SANTG,Santé Gourmet,Jonas Bergulfsen,Owner,Stavern,Scandinavia,Norway
+SAVEA,Save-a-lot Markets,Jose Pavarotti,Sales Representative,Boise,North America,USA
+SEVES,Seven Seas Imports,Hari Kumar,Sales Manager,London,British Isles,UK
+SIMOB,Simons bistro,Jytte Petersen,Owner,Kobenhavn,Northern Europe,Denmark
+SPECD,Spécialités du monde,Dominique Perrier,Marketing Manager,Paris,Western Europe,France
+SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Sales Manager,Lander,North America,USA
+SUPRD,Suprêmes délices,Pascale Cartrain,Accounting Manager,Charleroi,Western Europe,Belgium
+THEBI,The Big Cheese,Liz Nixon,Marketing Manager,Portland,North America,USA
+THECR,The Cracker Box,Liu Wong,Marketing Assistant,Butte,North America,USA
+TOMSP,Toms Spezialitäten,Karin Josephs,Marketing Manager,Münster,Western Europe,Germany
+TORTU,Tortuga Restaurante,Miguel Angel Paolino,Owner,México D.F.,Central America,Mexico
+TRADH,Tradição Hipermercados,Anabela Domingues,Sales Representative,Sao Paulo,South America,Brazil
+TRAIH,Trail's Head Gourmet Provisioners,Helvetius Nagy,Sales Associate,Kirkland,North America,USA
+VAFFE,Vaffeljernet,Palle Ibsen,Sales Manager,Århus,Northern Europe,Denmark
+Val2 ,IT,Val2,IT,Unknown,Unknown,Unknown
+VALON,IT,Valon Hoti,IT,Unknown,Unknown,Unknown
+VICTE,Victuailles en stock,Mary Saveley,Sales Agent,Lyon,Western Europe,France
+VINET,Vins et alcools Chevalier,Paul Henriot,Accounting Manager,Reims,Western Europe,France
+WANDK,Die Wandernde Kuh,Rita Müller,Sales Representative,Stuttgart,Western Europe,Germany
+WARTH,Wartian Herkku,Pirkko Koskitalo,Accounting Manager,Oulu,Scandinavia,Finland
+WELLI,Wellington Importadora,Paula Parente,Sales Manager,Resende,South America,Brazil
+WHITC,White Clover Markets,Karl Jablonski,Owner,Seattle,North America,USA
+WILMK,Wilman Kala,Matti Karttunen,Owner/Marketing Assistant,Helsinki,Scandinavia,Finland
+WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Owner,Warszawa,Eastern Europe,Poland

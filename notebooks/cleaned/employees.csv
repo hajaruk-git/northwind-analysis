@@ -1,0 +1,10 @@
+EmployeeID,FullName,Title,HireDate,City,Region,Country,ReportsTo
+1,Nancy Davolio,Sales Representative,2012-05-01,Seattle,North America,USA,2
+2,Andrew Fuller,"Vice President, Sales",2012-08-14,Tacoma,North America,USA,-1
+3,Janet Leverling,Sales Representative,2012-04-01,Kirkland,North America,USA,2
+4,Margaret Peacock,Sales Representative,2013-05-03,Redmond,North America,USA,2
+5,Steven Buchanan,Sales Manager,2013-10-17,London,British Isles,UK,2
+6,Michael Suyama,Sales Representative,2013-10-17,London,British Isles,UK,5
+7,Robert King,Sales Representative,2014-01-02,London,British Isles,UK,5
+8,Laura Callahan,Inside Sales Coordinator,2014-03-05,Seattle,North America,USA,2
+9,Anne Dodsworth,Sales Representative,2014-11-15,London,British Isles,UK,5
